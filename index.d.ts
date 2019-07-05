@@ -35,7 +35,7 @@ declare module 'react-native-multi-slider' {
         snapped?: boolean;
         containerStyle?: StyleProp<ViewStyle>;
         trackStyle?: StyleProp<ViewStyle>;
-        selctedStyle?: StyleProp<ViewStyle>;
+        selectedStyle?: StyleProp<ViewStyle>;
         unselectedStyle?: StyleProp<ViewStyle>;
         markerContainerStyle?: StyleProp<ViewStyle>;
         markerStyle?: StyleProp<ViewStyle>;
